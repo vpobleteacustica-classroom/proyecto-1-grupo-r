@@ -1,4 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2v3aT_hm)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=20158785&assignment_repo_type=AssignmentRepo)
-# acus220_primavera_2025
-Organización de proyectos a desarrollar en el semestre
+# Proyecto ACUS220
+## Creación de bot de Discord para la manipulación de audio
+
+
+### Funciones
+
+- Edición básica de audio
+- Comandos para todos los usuarios
+- Incorporación sencilla para servidores
+
+
+
+[Documentación Discord.py](https://discordpy.readthedocs.io/en/stable/)
