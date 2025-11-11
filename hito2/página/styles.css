@@ -1,0 +1,26 @@
+body{
+    background-color: #282b30;
+}
+
+p{
+    background-color: #424549;
+    
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+}
+
+.titulo {
+    position: absolute;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.logo{
+    height: 3%;
+    width:3%;
+}
